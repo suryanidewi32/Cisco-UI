@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+/* 
+#components-layout-demo-fixed */
+.logo {
+    /* background-image: url(../../Assets/Image/logo.png);
+    background-size: 180px;
+    width: 180px;
+    height: 40px;
+    background-repeat: no-repeat; */
+    display: flex;
+    margin-left:-10px;
+    width:180px
+
+  }
+  .site-layout .site-layout-background {
+    background: #ffffff;
+  }
+  .card-group2{
+    display: flex;
+    align-items: 'fixed';
+    justify-content: 'fixed';
+   }
+
+   .page1{
+    display: flex;
+   }
+
+  
